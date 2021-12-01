@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework8</string>
+    <string name="letter_grade_hint">Enter letter grades</string>
+    <string name="student_num_hint">Enter total no. of students</string>
+    <string name="button_text">compute</string>
+
+</resources>
